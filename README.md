@@ -1,2 +1,1 @@
-# Class30
-Activity form my programming class
+Actividad del alumno 3 - PRO - C30
